@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9b0aabd-368f-485e-a44b-14b02da1a4f6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;ytekle2&quot;,
+      &quot;fullname&quot;: &quot;Yafet Teklemicheal&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.com/wgu-gitlab-environment/student-repos/ytekle2/d287-java-frameworks.git&quot;,
+    &quot;second&quot;: &quot;35122b84-81f6-4fe9-a57f-c0c229473e56&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2WatoBdRa9jz9F1Ik6laCwLlGZ3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;working__branch&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mamush/Downloads/Documents/WGU&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="PartTest.getMaxInv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.domain.PartTest" />
+      <option name="METHOD_NAME" value="getMaxInv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartTest.getMinInv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.domain.PartTest" />
+      <option name="METHOD_NAME" value="getMinInv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartTest.setInv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.domain.PartTest" />
+      <option name="METHOD_NAME" value="setInv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartTest.setMaxInv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.domain.PartTest" />
+      <option name="METHOD_NAME" value="setMaxInv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartTest.setMinInv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.domain.PartTest" />
+      <option name="METHOD_NAME" value="setMinInv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="006991380_d287_local_repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="006991380_d287_local_repository" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PartTest.setMaxInv" />
+        <item itemvalue="JUnit.PartTest.getMaxInv" />
+        <item itemvalue="JUnit.PartTest.setMinInv" />
+        <item itemvalue="JUnit.PartTest.getMinInv" />
+        <item itemvalue="JUnit.PartTest.setInv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9b0aabd-368f-485e-a44b-14b02da1a4f6" name="Changes" comment="" />
+      <created>1696982692420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696982692420</updated>
+      <workItem from="1696982695479" duration="2125000" />
+      <workItem from="1696985411178" duration="15518000" />
+      <workItem from="1697373411840" duration="9444000" />
+      <workItem from="1697502194165" duration="88800000" />
+      <workItem from="1698455823238" duration="21000" />
+      <workItem from="1698537857481" duration="16000" />
+      <workItem from="1698590804650" duration="38000" />
+      <workItem from="1698590848046" duration="906000" />
+      <workItem from="1698594885779" duration="56435000" />
+      <workItem from="1698955082102" duration="5209000" />
+      <workItem from="1698963550379" duration="60168000" />
+      <workItem from="1699220581004" duration="1891000" />
+      <workItem from="1699222482899" duration="870000" />
+      <workItem from="1699223438016" duration="2519000" />
+      <workItem from="1699226807965" duration="61756000" />
+      <workItem from="1699574316825" duration="54921000" />
+      <workItem from="1699751874423" duration="3287000" />
+      <workItem from="1700707184025" duration="628000" />
+      <workItem from="1706149750114" duration="3000" />
+      <workItem from="1706657530604" duration="2818000" />
+      <workItem from="1707092433080" duration="29000" />
+      <workItem from="1707790807798" duration="128000" />
+      <workItem from="1709613302557" duration="24000" />
+      <workItem from="1709614256648" duration="13000" />
+      <workItem from="1709626214091" duration="659000" />
+      <workItem from="1709688028250" duration="75000" />
+      <workItem from="1709688112503" duration="33000" />
+      <workItem from="1709854220972" duration="21000" />
+      <workItem from="1711159289519" duration="23000" />
+      <workItem from="1711160102299" duration="14000" />
+      <workItem from="1711491909518" duration="215000" />
+      <workItem from="1711495099496" duration="41000" />
+      <workItem from="1717374603227" duration="82000" />
+      <workItem from="1717552369542" duration="24000" />
+      <workItem from="1719012007593" duration="1167000" />
+      <workItem from="1719451670919" duration="659000" />
+      <workItem from="1719625252073" duration="190000" />
+    </task>
+    <task id="LOCAL-00001" summary="Customized the HTML user interface &amp; added CSS to the customer’s application.">
+      <option name="closed" value="true" />
+      <created>1698626399141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698626399141</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created an about page with a controller.">
+      <option name="closed" value="true" />
+      <created>1698811478491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698811478491</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added 5 parts &amp; 5 products, &amp; made a few styling changes.">
+      <option name="closed" value="true" />
+      <created>1699156394898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699156394898</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added a functional &quot;Buy Now&quot; button to the products table, &amp; made a few styling changes.">
+      <option name="closed" value="true" />
+      <created>1699319064139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699319064139</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added a functional &quot;Buy Now&quot; button to the products table, &amp; made a few styling changes.">
+      <option name="closed" value="true" />
+      <created>1699319254277</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699319254277</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added min &amp; max inventory fields with validators to enforce appropriate values.">
+      <option name="closed" value="true" />
+      <created>1699667015156</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699667015156</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Modified the EnufPartsValidator to enforce associated parts inventory stays above the minimum">
+      <option name="closed" value="true" />
+      <created>1699723761134</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699723761134</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added unit tests for the maximum &amp; minimum fields to the PartTest class.">
+      <option name="closed" value="true" />
+      <created>1699740687309</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699740687309</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Removed the class files for unused validators and cleaned up code wherever possible.">
+      <option name="closed" value="true" />
+      <created>1699754187176</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699754187176</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="working_branch" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="46" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="working_branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Customized the HTML user interface &amp; added CSS to the customer’s application." />
+    <MESSAGE value="Created an about page with a controller." />
+    <MESSAGE value="Added 5 parts &amp; 5 products, &amp; made a few styling changes." />
+    <MESSAGE value="Added a functional &quot;Buy Now&quot; button to the products table, &amp; made a few styling changes." />
+    <MESSAGE value="Added min &amp; max inventory fields with validators to enforce appropriate values." />
+    <MESSAGE value="Modified the EnufPartsValidator to enforce associated parts inventory stays above the minimum" />
+    <MESSAGE value="Added unit tests for the maximum &amp; minimum fields to the PartTest class." />
+    <MESSAGE value="Removed the class files for unused validators and cleaned up code wherever possible." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed the class files for unused validators and cleaned up code wherever possible." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
